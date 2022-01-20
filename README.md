@@ -7,7 +7,6 @@ The app allows to draw and edit polygons and create relations between their edge
 ## Table of Contents
 
 * [General Info](#general-information)
-* [Screenshot](#screenshot)
 * [Features](#features)
 * [Setup](#setup)
 * [Contact](#contact)
