@@ -20,6 +20,20 @@ It is one of the projects which I have developed during my studies. Through this
 with a graphical interface. The project also required solving some algorithmic problems: grabbing vertices and edges properly and repositioning
 parts of the polygon appropriately so that the relations between the edges are maintained.
 
+## Features
+
+- Create multiple polygons by determining positions of their vertices
+- Remove a polygon
+- Remove a vertex of a polygon
+- Add a new vertex in the middle of an edge of an existing polygon
+- Move a polygon
+- Add a relation of equal lengths of edges between a pair of edges (every time the polygon is modified, the program will try to maintain
+the relation)
+- Add a relation of parallel arrangement between a pair of edges
+- Remove a relation
+- Add a predefined polygon
+- Export the data about existing polygons and relations in .json format
+
 ## Setup
 
 To build the project firstly you need to import the project into Visual Studio.
